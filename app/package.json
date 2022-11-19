@@ -6,7 +6,7 @@
     "bootstrap": "^4.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "zipcodes": "^8.0.0"
   },
   "scripts": {
